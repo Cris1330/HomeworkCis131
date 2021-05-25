@@ -1,0 +1,12 @@
+/Users/cristalzavala/Desktop/Homework  Cis 131/HomeworkCis131/HomeworkCis131/bin/Debug/netcoreapp3.1/HomeworkCis131.deps.json
+/Users/cristalzavala/Desktop/Homework  Cis 131/HomeworkCis131/HomeworkCis131/bin/Debug/netcoreapp3.1/HomeworkCis131.runtimeconfig.json
+/Users/cristalzavala/Desktop/Homework  Cis 131/HomeworkCis131/HomeworkCis131/bin/Debug/netcoreapp3.1/HomeworkCis131.runtimeconfig.dev.json
+/Users/cristalzavala/Desktop/Homework  Cis 131/HomeworkCis131/HomeworkCis131/bin/Debug/netcoreapp3.1/HomeworkCis131.dll
+/Users/cristalzavala/Desktop/Homework  Cis 131/HomeworkCis131/HomeworkCis131/bin/Debug/netcoreapp3.1/HomeworkCis131.pdb
+/Users/cristalzavala/Desktop/Homework  Cis 131/HomeworkCis131/HomeworkCis131/obj/Debug/netcoreapp3.1/HomeworkCis131.csprojAssemblyReference.cache
+/Users/cristalzavala/Desktop/Homework  Cis 131/HomeworkCis131/HomeworkCis131/obj/Debug/netcoreapp3.1/HomeworkCis131.AssemblyInfoInputs.cache
+/Users/cristalzavala/Desktop/Homework  Cis 131/HomeworkCis131/HomeworkCis131/obj/Debug/netcoreapp3.1/HomeworkCis131.AssemblyInfo.cs
+/Users/cristalzavala/Desktop/Homework  Cis 131/HomeworkCis131/HomeworkCis131/obj/Debug/netcoreapp3.1/HomeworkCis131.csproj.CoreCompileInputs.cache
+/Users/cristalzavala/Desktop/Homework  Cis 131/HomeworkCis131/HomeworkCis131/obj/Debug/netcoreapp3.1/HomeworkCis131.dll
+/Users/cristalzavala/Desktop/Homework  Cis 131/HomeworkCis131/HomeworkCis131/obj/Debug/netcoreapp3.1/HomeworkCis131.pdb
+/Users/cristalzavala/Desktop/Homework  Cis 131/HomeworkCis131/HomeworkCis131/obj/Debug/netcoreapp3.1/HomeworkCis131.genruntimeconfig.cache

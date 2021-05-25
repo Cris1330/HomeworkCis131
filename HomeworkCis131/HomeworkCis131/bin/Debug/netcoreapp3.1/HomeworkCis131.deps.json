@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HomeworkCis131/1.0.0": {
+        "runtime": {
+          "HomeworkCis131.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HomeworkCis131/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
