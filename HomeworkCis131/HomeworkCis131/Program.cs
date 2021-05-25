@@ -6,14 +6,17 @@ namespace HomeworkCis131
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Class!");
-
-            int a = 45;
-            int b = 35;
-            int c = 0;
-
-            c = a * b;
-            Console.WriteLine(c);
+            Console.WriteLine(sumOf3Numbers(1, 2, 3));
+        }
+          
+            
+            
+            }
+                public static void sumOf3Numbers(int a, int b, int c)
+                {
+                int result = a + b + c;
+                return result; 
+                        }
 
         }
     }
