@@ -1,14 +1,22 @@
 ﻿<Properties StartupConfiguration="{7412D2F5-7042-4E67-BFA7-1C5E9469ABA7}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="HomeworkCis131/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HomeworkCis131/DTOS/Users.cs">
     <Files>
-      <File FileName="HomeworkCis131/Program.cs" Line="18" Column="10" />
+      <File FileName="HomeworkCis131/Program.cs" Line="8" Column="40" />
+      <File FileName="HomeworkCis131/DTOS/Comments.cs" Line="11" Column="1" />
+      <File FileName="HomeworkCis131/DTOS/Images.cs" Line="11" Column="1" />
+      <File FileName="HomeworkCis131/DTOS/Posts.cs" Line="11" Column="1" />
+      <File FileName="HomeworkCis131/DTOS/Roles.cs" Line="11" Column="1" />
+      <File FileName="HomeworkCis131/DTOS/Users.cs" Line="4" Column="23" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HomeworkCis131" expanded="True">
             <Node name="HomeworkCis131" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="DTOS" expanded="True">
+                <Node name="Users.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
             </Node>
           </Node>
         </State>
