@@ -4,24 +4,25 @@ using HomeworkCis131.Models;
 namespace HomeworkCis131
 {
     class Program
-    {
+    
         static void Main(string[] args)
+
         {
-            DateTime myFirstDate = new DateTime(2003, 7, 15);
-            DateTime mySecondDate = new DateTime(2005, 2, 8);
 
-            if(myFirstDate>mySecondDate)
-            {
-                Console.WriteLine("First date is greater than the second date");
-            }
-            else
-            {
-                Console.WriteLine("First date is lower than the second date");
-            }
+            int result = 0;
+
+
+            for (var i=1;1<= 20;i++) ;
         }
-        
 
-    }
+        {
+        result = result + i;
+        }
+Console.WriteLine(result);
+        
+     
+
+   
 }
 
 
